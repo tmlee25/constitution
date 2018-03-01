@@ -151,11 +151,7 @@ If the online voting system uses software maintained by past or current Caltech 
 
 ## 3.3. Voting System
 
-A selective vote is defined as a vote with multiple choices. For each selective vote, a voter will rank the choices in order of descending preference, with rank one being the most preferred. For each rank, the voter may select one of the choices on the ballot,, or may leave the rank blank. There will also be a choice for NO, which will run as a candidate. If NO wins a vote, then the election for that specific candidate is considered invalid and must be redone in a new vote. In the new vote, NO will not be a candidate. A ballot conforming to these guidelines will be considered correctly cast. The winner of a selective vote is declared as follows:
-
-1.  Ballots are counted according to first rank votes. If one choice gets a majority of the votes then it wins.
-2.  If no winner has been declared, the choice with the fewest votes will be eliminated, and each of that choice\'s ballots will be redistributed among the choices by the next available choice ranked. This process will be repeated until one choice gets a majority of the votes.
-3.  Ties among last place choices will be resolved by the following process: the votes of one of the tied choices will be redistributed, and the count process continued until a potential winner is found. This will be repeated for each of the other tied choices, until all such potential winners are found. If the same choice emerges as the potential winner in all cases, then that choice is declared the winner. If no consensus is found, then all correctly cast ballots will be reorganized and counted according to preferences for only the potential winners, using the procedure outlined above, and the choice receiving an absolute majority of the votes will be declared the winner. If a tie occurs among all remaining choices, the vote will be ruled indeterminate, and another vote will be held at the earliest possible opportunity.
+A selective vote is defined as one with multiple choices. For each selective vote, a voter will be given all unique pairings of each choice, including the option NO, and rank the two choices in each pairing. If NO wins a vote, then the election for that position is invalid and must be done with a new vote. A ballot conforming to these guidelines will be considered correctly cast. The winner of a selective vote follows the voting procedures used to determine the winner of ranked pairs.
 
 ## 3.4. Elections
 
