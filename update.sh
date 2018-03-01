@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 pushd "${0%/*}"
 git pull
 mkdir -p build
