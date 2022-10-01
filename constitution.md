@@ -1,6 +1,6 @@
 # Preamble
 
-We, the undergraduates, graduate students, and resident faculty of Avery, in order to create a community that is open, fair, and diverse, that is supportive and encourages the pursuit of knowledge without fear of ridicule or peer pressure, and that is a gathering place for upright, creative, and tenacious people, do hereby ordain and establish this Constitution for the community of Avery.
+We, the undergraduates, graduate students, and resident faculty of Avery, in order to create a more perfect Avery that is open, fair, and diverse, that is supportive and encourages the pursuit of knowledge without fear of ridicule or peer pressure, and that is a gathering place for creative, integrous, and tenacious people and their posterity (pre-Averites), do hereby ordain and establish this Constitution for the community of Avery.
 
 # Article 1. Membership and Dues
 
@@ -8,8 +8,8 @@ We, the undergraduates, graduate students, and resident faculty of Avery, in ord
 
 Membership in Avery may be established in the following ways:
 
-1.	Residency. Anyone living in Avery will automatically become a Full Member of Avery. Prefrosh and summer students are excluded from automatic Membership.
-2.	Membership Petition. Anyone, including those that have never lived in Avery, wishing to become a Full or Social Member must inform the Secretary, who will send an online Membership Petition Form out to the House. Membership is granted when the candidate receives 10 +1 responses from the Residents, either former or current, of Avery. In exceptional circumstances, the ExComm reserves the right to deny Membership by a unanimous vote.
+1.	Residency. Anyone living in Avery will automatically become a Full Member of Avery for the duration of their residency. Prospective students, students who have not yet completed rotation, and summer students are excluded from automatic Membership.
+2.	Membership Petition. Anyone, including those that have never lived in Avery, wishing to become a Full or Social member must inform the Secretary, who will send an online membership petition form out to the House. Membership is granted when the candidate receives 10 “yes” votes from current Full members of Avery. In exceptional circumstances, ExComm reserves the right to deny membership by a unanimous vote. A social member wishing to become a full member also needs to pass a House membership petition by receiving at least 10 “yes” votes. New members may directly petition to become a full member without applying for a social membership.
 
 The membership of Avery at any time is limited to current Residents and current students of Caltech.
 
@@ -20,9 +20,8 @@ Non-resident Members wishing to drop their membership or switch between a full a
 
 ## 1.2. Avery Dues
 
-There will be two tiers of dues-paying membership:
-
-FULL (\$45) and SOCIAL (\$30).
+There will be two tiers of membership: 
+FULL and SOCIAL. 
 
 The rights granted are as follows:
 
@@ -32,7 +31,16 @@ The rights granted are as follows:
 4.	Participate in Avery internal housing lottery : FULL ONLY
 5.	Run for any Avery officer position: FULL ONLY
 
-Dues will be determined by two-thirds referendum vote of Avery. All non-rotating members of Avery who apply for Avery's internal lottery will pay House dues equal to those of rotating members.
+There will be three classes of dues-paying members: Social members, associate members, and non-associate full members. Associate members are defined as the subset of full members who do not have Avery listed as their primary house. Associate members will pay separate dues rates, and will have dues directly collected from them by the House.
+
+Note: Full membership dues are now $90 but are covered by the Institute, so there is, as before, no out of pocket amount paid by full members. Associate membership dues are $45 out of pocket, the current rate for dual members, and social membership dues are $30. Hence, the amount of money paid out of pocket by all types of members will remain the same.
+
+The dues rates are as follows:
+	NON-ASSOCIATE FULL Members: $90
+	ASSOCIATE Members: $45
+	SOCIAL Members: $35
+
+If the Institute changes the amount of dues money covered for members, then ExComm may reduce the dues rate accordingly for a single term. Permanent changes to dues must require a successful constitutional amendment.
 
 
 # Article 2. Officers
@@ -150,10 +158,13 @@ If the online voting system uses software maintained by past or current Caltech 
 
 ## 3.3 Voting System
 
-A selective vote is defined as a vote with multiple choices. For each selective vote, a voter will rank the choices in order of descending preference, with rank one being the most preferred. For each rank, the voter may select one of the choices on the ballot,, or may leave the rank blank. There will also be a choice for NO, which will run as a candidate. If NO wins a vote, then the election for that specific candidate is considered invalid and must be redone in a new vote. In the new vote, NO will not be a candidate. A ballot conforming to these guidelines will be considered correctly cast. The winner of a selective vote is declared as follows:
+A selective vote is defined as a vote with multiple choices. For each selective vote, a voter will rank the choices in order of descending preference, with rank one being the most preferred. For each rank, the voter may select one of the choices on the ballot, or may leave the rank blank. There will also be a choice for NO, which will run as a candidate. If NO wins a vote, then the election for that specific candidate is considered invalid and must be redone in a new vote. In the new vote, NO will not be a candidate. A ballot conforming to these guidelines will be considered correctly cast. The winner(s) of a selective vote is declared as follows: 
 1.	Ballots are counted according to first rank votes. If one choice gets a majority of the votes then it wins.
-2.	If no winner has been declared, the choice with the fewest votes will be eliminated, and each of that choice's ballots will be redistributed among the choices by the next available choice ranked. This process will be repeated until one choice gets a majority of the votes.
-3.	Ties among last place choices will be resolved by the following process: the votes of one of the tied choices will be redistributed, and the count process continued until a potential winner is found. This will be repeated for each of the other tied choices, until all such potential winners are found. If the same choice emerges as the potential winner in all cases, then that choice is declared the winner. If no consensus is found, then all correctly cast ballots will be reorganized and counted according to preferences for only the potential winners, using the procedure outlined above, and the choice receiving an absolute majority of the votes will be declared the winner. If a tie occurs among all remaining choices, the vote will be ruled indeterminate, and another vote will be held at the earliest possible opportunity.
+2.	If no winner has been declared, the choice with the fewest votes will be eliminated, and each of that choice's ballots will be redistributed among the choices by the next available choice ranked. This process will be repeated until one choice gets a majority of the votes. 
+3.	Ties among last place choices will be resolved by the following process: the votes of one of the tied choices will be redistributed, and the count process is continued until a potential winner is found. 
+4.	This will be repeated for each of the other tied choices, until all such potential winners are found. If the same choice emerges as the potential winner in all cases, then that choice is declared the winner; if the election allows for multiple winners not running on the same ticket, then this candidate is declared the first winner. If no consensus is found, then all correctly cast ballots will be reorganized and counted according to preferences for only the potential winners, using the procedure outlined above, and the choice receiving an absolute majority of the votes will be declared the winner. If a tie occurs among all remaining choices, the vote will be ruled indeterminate, and another vote will be held at the earliest possible opportunity.
+5.	If the election allows for multiple winners not running on the same ticket, and a first winner was determined in step 4, this winner will be removed from the voting results, and for each voter, every candidate whose rank was higher than the first winner will have their rank decreased by one in that voter’s record; steps 1-4 will then be repeated to determine a second winner in the election. If step 4 results in an indeterminate vote, any winners already determined will be declared and only the remaining candidates will be on the ballot to determine the additional winners.
+6.	Step 5 will be repeated however many times necessary to determine all winners for the election, provided that step 4 does not result in an indeterminate vote.
 
 ## 3.4. Elections 
 
